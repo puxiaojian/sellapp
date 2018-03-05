@@ -2,7 +2,7 @@
   "name": "sell",
   "version": "1.0.0",
   "description": "sell app",
-  "author": "zery <759005093@qq.com>",
+  "author": "pu 378652974@qq.com",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
